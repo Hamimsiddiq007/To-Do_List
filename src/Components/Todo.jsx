@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import './CSS/Todo.CSS'
+import './CSS/Todo.css'
 import { useRef } from 'react';
 import { useEffect } from 'react';
 import Todoitems from './Todoitems';
